@@ -10,7 +10,7 @@ Instructions for building and running the project in debug and release:
 
 - Download and unzip this repository
 
-- Go to the example folder in the console: `cd how-to-set-up-box2dwasm-with-importmap-rollup-js`
+- Go to the root folder of the example in the console
 
 - Install these packages globally with the command:
 
