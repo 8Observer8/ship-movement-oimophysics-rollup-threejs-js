@@ -1,4 +1,6 @@
-Playground: https://plnkr.co/edit/ENV8AfwIztG5YS7g?preview
+
+- [Demo on Glitch](https://ship-movement-oimophysics-rollup-threejs-js.glitch.me/)
+- [Demo on Plunker](https://plnkr.co/edit/ENV8AfwIztG5YS7g?preview)
 
 This demo uses free assets:
 - Free model - [link](https://free3d.com/3d-model/low-poly-spaceship-37605.html)
