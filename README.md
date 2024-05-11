@@ -8,7 +8,7 @@ This demo uses free assets:
 
 Instructions for building and running the project in debug and release:
 
-- Download and unzip this example: https://github.com/8Observer8/how-to-set-up-box2dwasm-with-importmap-rollup-js
+- Download and unzip this repository
 
 - Go to the example folder in the console: `cd how-to-set-up-box2dwasm-with-importmap-rollup-js`
 
